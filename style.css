@@ -1,0 +1,23 @@
+*{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.circles {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    border: 2px solid rgb(255, 21, 0);
+}
+.field{
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+.show-data{
+    border: 3px solid red;
+    font-size: 22px;
+    height: 10vh;
+    
+}
+
